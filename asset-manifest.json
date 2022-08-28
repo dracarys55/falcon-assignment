@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/falcon-assignment/static/css/main.ff09cfd4.css",
+    "main.js": "/falcon-assignment/static/js/main.9b41ab32.js",
+    "static/media/microsoft-icon-png-21.jpg": "/falcon-assignment/static/media/microsoft-icon-png-21.9f85efeedf360e2195e8.jpg",
+    "index.html": "/falcon-assignment/index.html",
+    "main.ff09cfd4.css.map": "/falcon-assignment/static/css/main.ff09cfd4.css.map",
+    "main.9b41ab32.js.map": "/falcon-assignment/static/js/main.9b41ab32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff09cfd4.css",
+    "static/js/main.9b41ab32.js"
+  ]
+}
