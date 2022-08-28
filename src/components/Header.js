@@ -18,7 +18,7 @@ const Header = () => {
             />
             Microsoft Bing
           </Navbar.Brand>
-          <div class='topnav'>
+          <div className='topnav'>
             <input type='text' placeholder='Search..'></input>
           </div>
         </Container>
